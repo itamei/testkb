@@ -1,0 +1,13 @@
+---
+title: Testkb
+timezone: UTC
+collections:
+  html-pages:
+    title: HTML Pages
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
