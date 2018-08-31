@@ -5,7 +5,7 @@ Field name:
   Key: 
 ---
 
-<!DOCTYPE html>
+<!DOCTYPE>
 <html lang="en">
 <head>
     <title>Bootstrap 4 project documentation theme for developers</title>
